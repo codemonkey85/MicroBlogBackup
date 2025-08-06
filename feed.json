@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://codemonkey85.micro.blog/2025/08/06/notepad.html",
+				"title": "Notepad",
+				"content_html": "<p>Windows Notepad is getting beefier, and I don&rsquo;t know how I feel about it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Windows Notepad is getting beefier, and I don't know how I feel about it.\n\n<img src=\"uploads/2025/image.png\" alt=\"Screenshot of Windows 11 Notepad with a blank, untitled document. The toolbar includes standard menu options and formatting controls. In the top right, the Microsoft Copilot icon and a signed-in user profile icon are visible, indicating AI integration and account login.\">\n",
+				"date_published": "2025-08-06T17:10:04-04:00",
+				"url": "https://micro.bondcodes.com/2025/08/06/notepad.html"
+			},
+			{
 				"id": "http://codemonkey85.micro.blog/2025/01/28/i-really-miss-tiny-rogue.html",
 				
 				"content_html": "<p>I really miss Tiny Rogue. <a href=\"https://toucharcade.com/2015/11/13/tiny-rogue-review-solid-roguelike/\">toucharcade.com/2015/11/1&hellip;</a></p>\n",

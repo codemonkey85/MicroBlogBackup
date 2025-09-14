@@ -1,15 +1,23 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Michael Bond's Blog",
-	"icon": "https://micro.blog/codemonkey85/avatar.jpg",
+	"icon": "https://www.gravatar.com/avatar/261c7d6bd2f2eca5718f1676eb0d0ece?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
 	"home_page_url": "https://micro.bondcodes.com/",
 	"feed_url": "https://micro.bondcodes.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://codemonkey85.micro.blog/2025/09/14/am-i-the-only-person.html",
+				
+				"content_html": "<p>Am I the only person who always saw Link and Zelda as more brother and sister than a couple? <a href=\"https://www.polygon.com/video/are-zelda-and-link-dating/\">www.polygon.com/video/are&hellip;</a></p>\n",
+				"content_text": "Am I the only person who always saw Link and Zelda as more brother and sister than a couple? [www.polygon.com/video/are...](https://www.polygon.com/video/are-zelda-and-link-dating/)\n",
+				"date_published": "2025-09-14T11:17:09-04:00",
+				"url": "https://micro.bondcodes.com/2025/09/14/am-i-the-only-person.html"
+			},
+			{
 				"id": "http://codemonkey85.micro.blog/2025/08/06/notepad.html",
 				"title": "Notepad",
-				"content_html": "<p>Windows Notepad is getting beefier, and I don&rsquo;t know how I feel about it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Windows Notepad is getting beefier, and I don&rsquo;t know how I feel about it.</p>\n<img src=\"uploads/2025/image.png\" alt=\"Screenshot of Windows 11 Notepad with a blank, untitled document. The toolbar includes standard menu options and formatting controls. In the top right, the Microsoft Copilot icon and a signed-in user profile icon are visible, indicating AI integration and account login.\">\n",
 				"content_text": "Windows Notepad is getting beefier, and I don't know how I feel about it.\n\n<img src=\"uploads/2025/image.png\" alt=\"Screenshot of Windows 11 Notepad with a blank, untitled document. The toolbar includes standard menu options and formatting controls. In the top right, the Microsoft Copilot icon and a signed-in user profile icon are visible, indicating AI integration and account login.\">\n",
 				"date_published": "2025-08-06T17:10:04-04:00",
 				"url": "https://micro.bondcodes.com/2025/08/06/notepad.html"
@@ -33,7 +41,7 @@
 			{
 				"id": "http://codemonkey85.micro.blog/2024/12/24/if-you-make-a-video.html",
 				
-				"content_html": "<p>If you make a video game that requires a constant internet connection for single player mode <strong>just for DRM</strong>&hellip; eat me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>If you make a video game that requires a constant internet connection for single player mode <strong>just for DRM</strong>&hellip; eat me.</p>\n<img src=\"uploads/2024/screenshot-2024-12-24-131643.png\" width=\"600\" height=\"406\" alt=\"Steam Deck Compatibility: Valve's testing indicates that STAR WARS Jedi: Fallen Order™ is Playable on Steam Deck.\r&10;This game is functional on Steam Deck, but might require extra effort to interact with or\r&10;configure.\r&10;This game's launcher/setup tool may require the touchscreen or virtual keyboard, or\r&10;have difficult to read text\r&10;All functionality is accessible when using the default controller configuration\r&10;This game shows Steam Deck controller icons\r&10;In-game interface text is legible on Steam Deck\r&10;This game's default graphics configuration performs well on Steam Deck\r&10;This game's first-time setup requires an active Internet connection\r&10;Singleplayer gameplay requires an active Internet connection\r&10;This game does not default to external Bluetooth/USB controllers on Deck, and may\r&10;require manually switching the active controller via the Quick Access Menu\">\n",
 				"content_text": "If you make a video game that requires a constant internet connection for single player mode **just for DRM**... eat me.\n\n<img src=\"uploads/2024/screenshot-2024-12-24-131643.png\" width=\"600\" height=\"406\" alt=\"Steam Deck Compatibility: Valve's testing indicates that STAR WARS Jedi: Fallen Order™ is Playable on Steam Deck.\r&10;This game is functional on Steam Deck, but might require extra effort to interact with or\r&10;configure.\r&10;This game's launcher/setup tool may require the touchscreen or virtual keyboard, or\r&10;have difficult to read text\r&10;All functionality is accessible when using the default controller configuration\r&10;This game shows Steam Deck controller icons\r&10;In-game interface text is legible on Steam Deck\r&10;This game's default graphics configuration performs well on Steam Deck\r&10;This game's first-time setup requires an active Internet connection\r&10;Singleplayer gameplay requires an active Internet connection\r&10;This game does not default to external Bluetooth/USB controllers on Deck, and may\r&10;require manually switching the active controller via the Quick Access Menu\">\n",
 				"date_published": "2024-12-24T14:21:38-04:00",
 				"url": "https://micro.bondcodes.com/2024/12/24/if-you-make-a-video.html"
@@ -49,7 +57,7 @@
 			{
 				"id": "http://codemonkey85.micro.blog/2024/12/18/testing.html",
 				"title": "Testing",
-				"content_html": "<p>This is me testing some features of Micro.blog.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>This is me testing some features of Micro.blog.</p>\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "This is me testing some features of Micro.blog.\n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-18T19:08:54-04:00",
 				"url": "https://micro.bondcodes.com/2024/12/18/testing.html"
